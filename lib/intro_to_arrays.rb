@@ -17,3 +17,7 @@ end
 def last_element(arr)
   arr.last
 end
+
+def first_element(arr)
+  arr.first
+end
